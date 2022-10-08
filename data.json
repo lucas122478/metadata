@@ -1,0 +1,27 @@
+{
+    "name": "Bloodlust 1 OF 1",
+    "symbol": "OKCO",   
+    "uri": "https://arweave.net/QSSZR6E6QwNUpKYl19RzNBX5nk9wn_smC2h7UGxR0WU",
+    "description": "Original artwork created by Christian Forst, one of OddKey's community artists to celebrate NYCC 2022.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/g8bvQ6PoFOGygEBfTjtV5yHC_L5H_227CFJkEJyo8QA",  
+    "animation_url": "https://arweave.net/d0JLigYeWWL64HuPwLIdATYSQW16Dm3FrHifFs7TqiI",
+    "external_url": "https://okcafe.cafe",
+    "attributes": [
+      {"trait_type": "Artist", "value": "Christian Forst"},
+      {"trait_type": "Name", "value": "Bloodlust"},
+      {"trait_type": "Type", "value": "Community Artist Spotlight"},  
+      {"trait_type": "Limited", "value": "1 of 1"}
+    ],
+    "creators": [                  
+      {"address": "7pb4YQPXPEQv3pCfQVKRoCCU3Rq3mEakJZFDhbMHtPBK", "verified": false, "share": 100}      
+    ],    
+    "properties": {                  
+      "category": "video",
+      "files": [
+        {"uri": "https://arweave.net/9QSPwL_TA6d7Il-j_Ve8nI32yOse6-nedbcJv8Tu4g0", "type": "image/png"},
+        {"uri": "https://arweave.net/lEMK4nSQS1O4Hm8nrPxJgJRAXUJY2yxAcr65_CPp1fQ", "type": "video/mp4"}
+      ],      
+      "collection": {"name": "OddKey Cafe Originals 2022E", "family": "OddKey Cafe Originals"}
+    }
+  }
